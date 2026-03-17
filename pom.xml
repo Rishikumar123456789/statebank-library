@@ -6,7 +6,7 @@
 
   <groupId>io.github.rishikumar123456789</groupId>
   <artifactId>statebank-library</artifactId>
-  <version>1.0</version>
+  <version>1.1</version>
   <packaging>jar</packaging>
 
   <name>statebank-library</name>
