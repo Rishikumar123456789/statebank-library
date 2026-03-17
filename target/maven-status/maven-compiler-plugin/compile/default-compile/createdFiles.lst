@@ -1,2 +1,3 @@
 com\statebank\Balance.class
 com\statebank\Details.class
+com\statebank\AccountOpenedEvent.class
