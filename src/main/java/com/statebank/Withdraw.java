@@ -11,9 +11,8 @@ import lombok.NoArgsConstructor;
 @Data
 
 public class Withdraw {
-  
-private Long  transactionId;
 private Long accountNumber;
+private String accountHolderName;
 private BigDecimal withDrawAmount;
 private LocalDateTime withDrawDatetime;
 }
