@@ -11,6 +11,7 @@ import lombok.NoArgsConstructor;
 @Data
 public class WithdrawProcessedDetails {
      private Long accountNumber;
+     private String name;
      private BigDecimal remainingBalance;
      private BigDecimal withdrawnAmount;
      private WithdrawStatus status;
