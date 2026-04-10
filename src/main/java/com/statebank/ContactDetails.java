@@ -8,5 +8,5 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @Data
 public class ContactDetails {
-  private String mobilenumber;
+  private String mobile;
 }

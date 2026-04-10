@@ -1,3 +1,4 @@
+com\statebank\ContactDetails.class
 com\statebank\Deposit.class
 com\statebank\AccountOpenedEvent.class
 com\statebank\WithdrawStatus.class
