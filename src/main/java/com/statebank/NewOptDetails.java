@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 @Data
-public class OtpDetails {
-   private String otp;
-   private String mobile;
+public class NewOptDetails {
+	private String otp;
+	private String mobile;
 }

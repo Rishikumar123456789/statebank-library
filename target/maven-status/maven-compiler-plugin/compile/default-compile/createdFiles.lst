@@ -4,6 +4,7 @@ com\statebank\AccountOpenedEvent.class
 com\statebank\WithdrawStatus.class
 com\statebank\Withdraw.class
 com\statebank\WithdrawProcessedDetails.class
+com\statebank\OtpDetails.class
 com\statebank\DepositEvent.class
 com\statebank\Balance.class
 com\statebank\Details.class
